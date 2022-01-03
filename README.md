@@ -7,7 +7,7 @@ StgData a Stegonography tool you can hide any type files or msg in a photo and y
 <p align="center">
   <img src="https://github.com/DHK-Tn/FuckThisShit_Bomber/blob/main/DHK.png"><br>
 </p>
-#:boom::bomb: this Created For Help people send files anonymously ♡ :bomb::bomb: 
+#:boom::bomb: this Created For Help people send files anonymously ♡ :bomb::bomb: <br>
 *** Also you can easy extract EXIF MetaData from pictures with just one click moreover 
 you can send anonymously msgs crypted in the binary pic code .***
 
