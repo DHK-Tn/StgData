@@ -31,7 +31,8 @@ Run these commands in root to install and run  StgData
 ```
 sudo su 
 ```
-``apt install git figlet  
+```
+apt install git figlet  
 ```
 ```
 git clone https://github.com/DHK-Tn/StgData
