@@ -50,7 +50,7 @@ python3 install.py
 ```
 ## Run 
 ```
-cd StgData
+python3 StgData
 ```
 ## Note
 <b> In the first installation the program will ask you to automatically modify your <em>figlet</em> files don't worry
