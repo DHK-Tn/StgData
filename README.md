@@ -25,11 +25,13 @@ As soon it will be available for windows .
 
 ## Usage:
 
-Run these commands to install and run  StgData
+Run these commands in root to install and run  StgData
 
 ## Kali linux
 ```
-sudo apt install git  
+sudo su 
+```
+``apt install git figlet  
 ```
 ```
 git clone https://github.com/DHK-Tn/StgData
