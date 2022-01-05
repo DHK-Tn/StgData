@@ -3,6 +3,5 @@ Pillow
 requires.io
 pystyle
 pathlib
-time
-sys-os
+os-sys
 
