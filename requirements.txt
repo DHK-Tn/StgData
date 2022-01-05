@@ -1,0 +1,8 @@
+stegano
+Pillow
+requires.io
+pystyle
+pathlib
+time
+sys-os
+
