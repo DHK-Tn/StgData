@@ -23,20 +23,6 @@ def banner():
     print(Colorate.Horizontal(Colors.green_to_red,'+[+[+[ STgData v1.0 ]+]+]+'))
     print(Colorate.Horizontal(Colors.green_to_red,'+[+[+[ made By Tarek DHK ]+]+]+\n\n'))
     os.system("\nfiglet -f Bloody StgData | lolcat")
-    print('''
-  ██████ ▄▄▄█████▓  ▄████ ▓█████▄  ▄▄▄     ▄▄▄█████▓ ▄▄▄      
-▒██    ▒ ▓  ██▒ ▓▒ ██▒ ▀█▒▒██▀ ██▌▒████▄   ▓  ██▒ ▓▒▒████▄    
-░ ▓██▄   ▒ ▓██░ ▒░▒██░▄▄▄░░██   █▌▒██  ▀█▄ ▒ ▓██░ ▒░▒██  ▀█▄  
-  ▒   ██▒░ ▓██▓ ░ ░▓█  ██▓░▓█▄   ▌░██▄▄▄▄██░ ▓██▓ ░ ░██▄▄▄▄██ 
-▒██████▒▒  ▒██▒ ░ ░▒▓███▀▒░▒████▓  ▓█   ▓██▒ ▒██▒ ░  ▓█   ▓██▒
-▒ ▒▓▒ ▒ ░  ▒ ░░    ░▒   ▒  ▒▒▓  ▒  ▒▒   ▓▒█░ ▒ ░░    ▒▒   ▓▒█░
-░ ░▒  ░ ░    ░      ░   ░  ░ ▒  ▒   ▒   ▒▒ ░   ░      ▒   ▒▒ ░
-░  ░  ░    ░      ░ ░   ░  ░ ░  ░   ░   ▒    ░        ░   ▒   
-      ░                 ░    ░          ░  ░              ░  ░
-                           ░                                  
-
-
-''')
     os.system("echo '\t\t\t+++ Coded_By_Tarek_Dhokkar +++' | lolcat ")
     print(Colorate.Horizontal(Colors.green_to_red,''' 
                                                                                                                          
