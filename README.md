@@ -41,7 +41,7 @@ git clone https://github.com/DHK-Tn/StgData
 cd StgData
 ```
 ```
-python3 install -m pip requirements.txt  
+pip install -r requirements.txt  
 ```
 ## for the first installation only
 ```
@@ -50,7 +50,7 @@ python3 install.py
 ```
 ## Run 
 ```
-python3 StgData
+python3 StgData.py
 ```
 ## Note
 <b> In the first installation the program will ask you to automatically modify your <em>figlet</em> files don't worry
