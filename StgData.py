@@ -24,17 +24,20 @@ def banner():
     print(Colorate.Horizontal(Colors.green_to_red,'+[+[+[ made By Tarek DHK ]+]+]+\n\n'))
     os.system("\nfiglet -f Bloody StgData | lolcat")
     os.system("echo '\t\t\t+++ Coded_By_Tarek_Dhokkar +++' | lolcat ")
-    print(Colorate.Horizontal(Colors.green_to_red,''' 
+    print(Colorate.Horizontal(Colors.green_to_blue,''' 
                                                                                                                          
- ***************************************       
+ ***************************************'''))
+    print(Colorate.Horizontal(Colors.red_to_green,'''       
  + 1 + Hide Image Into another         *       
  + 2 + Export Hidden Image             *       
  + 3 + Hide Any File In Image          *       
  + 4 + Export Hidden File From Image   *      
  + 5 + Hide Message in Image           *       
  + 6 + Export Hidden message           *
- + 7 + Show META_Data From Images      *       
- ***************************************       
+ + 7 + Extract META_Data From Images   *'''))
+    print(Colorate.Horizontal(Colors.green_to_blue,'''       
+ ***************************************       '''))
+    print(Colorate.Horizontal(Colors.red_to_green,'''
                       + Fb   : Tarek Dhk                                        
                       + Insta: tarek_dgh                                                          
  '''))
